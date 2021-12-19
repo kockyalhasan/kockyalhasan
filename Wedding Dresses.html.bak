@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	
+		<title> khokha Website Design - Easy Tutorialse </title>
+<title> Wedding Dresses </title>
+<link rel="html" href="khairat.html">
+
+</head>
+<body>
+<table border=0 color="pink" cellspacing=0>
+<tr>
+<td>
+	<a href="22.jpg"><img src="22.jpg" width="300" height="300" title="انقر على الصورة للتكبير"/></a> 
+<th>
+<h3>فستان عروس موديل سمكة مع شاحط</h3>
+<h1><u>350jd</u></h1>
+</th>
+</td>
+<td>
+	<a href="30.jpg"> <img src="30.jpg"  width="300" height="300"title="انقر على الصورة للتكبير"/></a> 
+<th>
+<h3>فستان عروس شيال</h3>
+<h1><u>250jd</u></h1>
+</th>
+</td>
+<td>
+	<a href="31.jpg"> <img src="31.jpg"  width="300" height="300"title="انقر على الصورة للتكبير"/></a> 
+<th>
+<h3>فستان عروس كم طويل</h3>
+<h1><u>200jd</u></h1>
+</th>
+</td>
+</tr>
+<tr>
+<td>
+	<a href="32.jpg"> <img src="32.jpg"  width="300" height="300"title="انقر على الصورة للتكبير"/></a> 
+<th>
+<h3>فستان عروس بدون شيال</h3>
+<h1><u>150jd</u></h1>
+</th>
+</td>
+<td>
+	<a href="34.jpg"> <img src="34.jpg"  width="300" height="300"title="انقر على الصورة للتكبير"/></a> 
+<th>
+<h3>فستان عروس نص كم</h3>
+<h1><u>200jd</u></h1>
+</th>
+</td>
+<td>
+	<a href="35.jpg"> <img src="35.jpg"  width="300" height="300"title="انقر على الصورة للتكبير"/></a> 
+<th>
+<h3>فستان عروس مع شاحط</h3>
+<h1><u>200jd</u></h1>
+</th>
+</td>
+</tr>
+</table>
+<form>
+<a href= "index.html"> <input type="button" value="back " onclick="history.back" ></a>
+</form>
+</body>
+</html>

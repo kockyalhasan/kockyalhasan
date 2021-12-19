@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><center>Contact Us
+<hr>
+<p>
+ <img src="Contact Us.gif"><br>
+ <br>
+ How can we help you?:
+<br>
+For any questions or concerns,Please call us at the number<br>
+0758496712<br>
+OR <br>
+Send to our email<br>
+kocky@gmail.com
+</p>
+ <form>
+<a href= "index.html"> <img src="Back.png" ></a>
+</form>
+</body>
+</html>

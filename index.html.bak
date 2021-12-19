@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	
+		<title> khokha Website Design - Easy Tutorialse </title>
+		<link rel="stylesheet" href="style.css">
+		
+	</head>
+<body>
+            
+         
+ <div class="container">
+		<nav>
+		<header>
+		<div class="logo">
+		<center><img src="jk.png"> </center>
+		<table >
+		<tr>
+						<ul>
+		<br><li><a href="index.html"><img src="Home.png"></a></li>		
+		<li><a href="About Us.html"><img src="About Us.png"></a></li>
+		<li><a href="Contact Us.html"><img src="Contact Us.png"></a></li>
+		<li><a href="Services.html"><img src="Services.png"></a></li>
+		</br></tr>
+		</ul>
+		</table>
+		<i class='bx bx-search' id="search-icon"></i>
+		<div class="search-box container">
+		<input type="search" name="" id="" placeholder="search here....">
+		</div>
+		</nav>
+		<div class="left-col">
+		
+	
+		<div class="team">
+		<div class="user-col">
+		 <a href="Evening Dresses.html"><h4>فساتين سهرة</h4><img src="15.jpg" width="250" height="400"></a>
+		<div class="info">
+		
+						</div>
+		</div>
+		
+		<div class="user-col">
+		<a href="Engagement Dresses.html"><h4>فساتين خطوبة</h4><img src="12.jpg" width="250" height="400"></a>
+		<div class="info">
+				 		</div>
+		
+		</div>
+		<div class="user-col">
+		<a href="Wedding Dresses.html"><h4>فساتين عروس</h4><img src="40.jpg" width="250" height="400"></a>
+		<div class="info">
+		
+		
+		</div>
+		
+		</div>
+		<div class="right-col">
+							</div>
+		</div>
+		
+<table width="100%">
+	<tr>
+	
+	<div id="footer">
+    <p id="back-to-top"><a href="#">Back to top</a></p>
+  </div>
+</body>
+	
+</html>
